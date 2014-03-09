@@ -20,4 +20,4 @@ end
   
   
   
-このソフトウェアはHTTP Agility Packを使っています(http://htmlagilitypack.codeplex.com/)
+このソフトウェアはHtml Agility Packを使っています(http://htmlagilitypack.codeplex.com/)
